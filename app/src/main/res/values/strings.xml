@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="sterlinSymbol">£</string>
+    <string name="euroSymbol">€</string>
+    <string name="dolarSymbol">$</string>
+    <string name="ekle">Ekle</string>
+    <string name="tlSymbol">₺</string>
+    <string name="tl">TL</string>
+    <string name="dollar">Dolar</string>
+    <string name="euro">Euro</string>
+    <string name="sterlin">Sterlin</string>
+    <string name="rent">Kira</string>
+    <string name="bill">Fatura</string>
+    <string name="other">Diğer</string>
+
+    <string name="expense_type"><u>Harcama Tipi</u></string>
+    <string name="currency_type"><u>Para Birimi</u></string>
+    <string name="profile_settings"><u>Profil Ayarları</u></string>
+    <string name="add_expense"><u>Harcama Ekleyin</u></string>
+</resources>
